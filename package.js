@@ -93,7 +93,6 @@ var both = ['client','server'],
         'reactive-var',
         'es5-shim',
         'ecmascript',
-        'meteorhacks:npm',
         'jquery'
 ]
 

@@ -102,6 +102,7 @@ Package.onUse(function(api) {
     api.imply(packages)
 
     api.addFiles([
+        'lib/client/api.js',
         'lib/client/locale.js',
         'lib/client/helpers.js',
         'lib/client/mdate.js'
